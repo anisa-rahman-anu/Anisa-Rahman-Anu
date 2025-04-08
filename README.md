@@ -1,6 +1,5 @@
-## Hi there 👋
-
-anu
+## Cat
+pushi
 
 <!--
 **anisa-rahman-anu/Anisa-Rahman-Anu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
